@@ -1,15 +1,17 @@
-# radius-authentication-network
-This project simulates network authentication using RADIUS in Cisco Packet Tracer.
-Features
+# RADIUS Authentication Network
+
+## Description
+This project simulates a network with centralized authentication using RADIUS in Cisco Packet Tracer.
+
+## Features
 - Configured routers and switches
-- Set up RADIUS-based authentication
+- Implemented RADIUS-based authentication
 - Tested secure access between network devices
 
-Network Topology
-
+## Network Topology
 ![Network Topology](Network Topology.png)
 
- Technologies
+## Technologies
 - Cisco Packet Tracer
 - Networking (Routing & Switching)
 - AAA (Authentication, Authorization, Accounting)
