@@ -1,5 +1,5 @@
 # radius-authentication-network
-Simulation of network authentication using RADIUS in Cisco Packet Tracer
+This project simulates network authentication using RADIUS in Cisco Packet Tracer.
 Features
 - Configured routers and switches
 - Set up RADIUS-based authentication
